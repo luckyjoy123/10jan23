@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-11T12:00:14 IST" name="Suite" finished-at="2025-05-11T12:00:15 IST" duration-ms="593">
+    <groups>
+    </groups>
+    <test started-at="2025-05-11T12:00:14 IST" name="Test" finished-at="2025-05-11T12:00:14 IST" duration-ms="316">
+      <class name="parallel.TestParall">
+        <test-method signature="test1()[pri:0, instance:parallel.TestParall@53fb3dab]" started-at="2025-05-11T12:00:14 IST" name="test1" finished-at="2025-05-11T12:00:14 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:parallel.TestParall@53fb3dab]" started-at="2025-05-11T12:00:14 IST" name="test2" finished-at="2025-05-11T12:00:14 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:parallel.TestParall@53fb3dab]" started-at="2025-05-11T12:00:14 IST" name="test3" finished-at="2025-05-11T12:00:14 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:parallel.TestParall@53fb3dab]" started-at="2025-05-11T12:00:14 IST" name="test4" finished-at="2025-05-11T12:00:14 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- parallel.TestParall -->
+      <class name="parallel.TestParall2">
+        <test-method signature="test5()[pri:0, instance:parallel.TestParall2@28261e8e]" started-at="2025-05-11T12:00:14 IST" name="test5" finished-at="2025-05-11T12:00:14 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method signature="test6()[pri:0, instance:parallel.TestParall2@28261e8e]" started-at="2025-05-11T12:00:14 IST" name="test6" finished-at="2025-05-11T12:00:14 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method signature="test7()[pri:0, instance:parallel.TestParall2@28261e8e]" started-at="2025-05-11T12:00:14 IST" name="test7" finished-at="2025-05-11T12:00:14 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method signature="test8()[pri:0, instance:parallel.TestParall2@28261e8e]" started-at="2025-05-11T12:00:14 IST" name="test8" finished-at="2025-05-11T12:00:14 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+      </class> <!-- parallel.TestParall2 -->
+      <class name="parallel.TestParall3">
+        <test-method signature="test10()[pri:0, instance:parallel.TestParall3@d737b89]" started-at="2025-05-11T12:00:14 IST" name="test10" finished-at="2025-05-11T12:00:14 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method signature="test11()[pri:0, instance:parallel.TestParall3@d737b89]" started-at="2025-05-11T12:00:14 IST" name="test11" finished-at="2025-05-11T12:00:14 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test12()[pri:0, instance:parallel.TestParall3@d737b89]" started-at="2025-05-11T12:00:14 IST" name="test12" finished-at="2025-05-11T12:00:14 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method signature="test9()[pri:0, instance:parallel.TestParall3@d737b89]" started-at="2025-05-11T12:00:14 IST" name="test9" finished-at="2025-05-11T12:00:14 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+      </class> <!-- parallel.TestParall3 -->
+    </test> <!-- Test -->
+    <test started-at="2025-05-11T12:00:15 IST" name="Test2" finished-at="2025-05-11T12:00:15 IST" duration-ms="4">
+    </test> <!-- Test2 -->
+    <test started-at="2025-05-11T12:00:15 IST" name="Test3" finished-at="2025-05-11T12:00:15 IST" duration-ms="1">
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
